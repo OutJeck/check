@@ -45,3 +45,4 @@
     Please wait...
     Finished. Please have look at the map:     2013_movies_map.html
 ```
+![alt logo](https://github.com/OutJeck/filmmap_project/2020-02-18 (2).png "Приклад виводу")
